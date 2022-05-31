@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    margin: auto;
+    margin-top:250px;
+    background-color: black;
+}
+
+#mydiv {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:100px;
+    color:darkred;
+}
